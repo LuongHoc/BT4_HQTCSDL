@@ -52,7 +52,7 @@ Coppy các dữ liệu cần dùng cho vào excel
 Để tên giáo viên không bị trùng lặp: lick vào cột GV ->chọn Data -> chọn Remove Duplicates
 Sau đó thêm cột MaGV 
 ![image](https://github.com/user-attachments/assets/b46f8acd-7d75-4b96-9d4c-33add1d5b495)
-![image](https://github.com/user-attachments/assets/e80339f3-d514-4762-b664-1132a2df9d4b)
+![image](https://github.com/user-attachments/assets/782ed0e7-051e-4fe7-8f59-039b435aa430)
 # 3.Sao chép dữ liệu và paste vào các bảng
 Bảng GiangVien
 ![image](https://github.com/user-attachments/assets/ce260feb-fba9-42ef-9ea3-4cacea875dfa)
